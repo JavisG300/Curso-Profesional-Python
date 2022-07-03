@@ -1,4 +1,4 @@
-#Es un iterador que guarada los infinitos números de la serie Fibonacci
+#Es un iterador que guarda los infinitos números de la serie Fibonacci
 import time 
 
 class FiboIter(): #Esta clase va a representar a los objetos de tipo iterador que voy a instanciar dentro del código
